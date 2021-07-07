@@ -1,0 +1,4 @@
+GET https://rickandmortyapi.com/api/character/
+Accept: application/json
+
+###
